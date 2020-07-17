@@ -8,8 +8,8 @@ public class GuestVo {
 	private String reg_date;
 	
 	public GuestVo() {}
+	
 	public GuestVo(String name, String password, String content) {
-		this.no = no;
 		this.name = name;
 		this.password = password;
 		this.content = content;
